@@ -21,6 +21,6 @@ git init
 2. Clone the project 
 
 ``` 
-git clone https://github.com/taolakhue/My_projects.git
+git clone https://github.com/taolakhue/spotify_challenge.git
 ```
 
